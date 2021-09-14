@@ -25,6 +25,7 @@ Animation(Y+'''
 
               by tek1
      group: t.me/coin_tilted
+     github.com/tek1bot
 
 \---------------------------------/
 _____________________________________
