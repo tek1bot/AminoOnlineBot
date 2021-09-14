@@ -1,27 +1,28 @@
 # OnlineBotAmino
 Amino Online Bot/Амино онлайн бот
 # Temux
+➤apt update
 
-apt update
-apt upgrade
+➤apt upgrade
 
-pip install samino
-pip install json
+➤pip install samino
 
+➤pip install json
 
-pip install websocket
+➤pip install websocket
 
-pip install sys
+➤pip install sys
 
-pip install pyfiglet
-pip install time
+➤pip install pyfiglet
 
-pip install os
+➤pip install time
 
-git clone https://github.com/tek1bot/OnlineBotAmino
+➤pip install os
 
-ЗАПУСК/Start
+➤git clone https://github.com/tek1bot/OnlineBotAmino
 
-cd AminoOnlineBot
+➤ЗАПУСК/Start
 
-python AminoOnlineBot.py
+➤cd AminoOnlineBot
+
+➤python AminoOnlineBot.py
