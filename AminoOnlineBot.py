@@ -54,3 +54,4 @@ for e in open("emails.txt","r").read().splitlines():
 	if opt ==2:
 		local.join_chat(ChatId)
 		Online_Chat(c.headers,ComId,ChatId)
+	print(f"Online Status Activated {e}")
