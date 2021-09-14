@@ -11,10 +11,6 @@ Online status in the community and chat rooms for bots/Онлайн статус
 
 ➤pip install pyfiglet
 
-➤pip install time
-
-➤pip install os
-
 ➤git clone https://github.com/tek1bot/AminoOnlineBot
 
 ➤ЗАПУСК/Start
