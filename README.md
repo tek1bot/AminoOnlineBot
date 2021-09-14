@@ -9,8 +9,6 @@ Online status in the community and chat rooms for bots/Онлайн статус
 
 ➤pip install websocket
 
-➤pip install sys
-
 ➤pip install pyfiglet
 
 ➤pip install time
