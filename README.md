@@ -7,8 +7,6 @@ Online status in the community and chat rooms for bots/Онлайн статус
 
 ➤pip install samino
 
-➤pip install json
-
 ➤pip install websocket
 
 ➤pip install sys
