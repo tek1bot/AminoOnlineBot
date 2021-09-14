@@ -1,5 +1,6 @@
 # OnlineBotAmino
 Amino Online Bot/Амино онлайн бот
+Online status in the community and chat rooms for bots/Онлайн статус в сообществе и чатах для ботов
 # Temux
 ➤apt update
 
