@@ -19,7 +19,7 @@ Amino Online Bot/Амино онлайн бот
 
 ➤pip install os
 
-➤git clone https://github.com/tek1bot/OnlineBotAmino
+➤git clone https://github.com/tek1bot/AminoOnlineBot
 
 ➤ЗАПУСК/Start
 
