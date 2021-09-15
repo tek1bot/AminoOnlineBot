@@ -1,6 +1,6 @@
 # OnlineBotAmino. 
 Online status in the community and chat rooms for bots/Онлайн статус в сообществе и чатах для ботов
-# TemuX.
+# TermuX.
 ➤apt update
 
 ➤apt upgrade
