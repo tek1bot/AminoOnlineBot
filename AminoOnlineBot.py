@@ -48,7 +48,10 @@ def Online_Chat(header,comId,chatId):
 	ws.send(data)
 
 for e in open("emails.txt","r").read().splitlines():
-	c.login(e,p)
+	try:
+		c.login(e,p)
+	except:
+			continue
 	c.join_community(ComId)
 	local = samino.Local(ComId)
 	if opt ==2:
